@@ -10,9 +10,22 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "MyProject - Download";
+	$pageTitle 		= "WindowBuilder - Download";
 
 	$html  = <<<EOHTML
+<div id="midcolumn">
+<h2>$pageTitle</h2>
+<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
+
+<h3>Galileo - Eclipse 3.5</h3>
+<p><b>Update site:</b>Not yet avaliable for download, check back soon.<br />
+
+<h3>Helios - Eclipse 3.6 (unreleased)</h3>
+<p><b>Update site:</b>Not yet avaliable for download, check back soon.<br />
+
+</div>
+
+$htmlDummyContent  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
