@@ -24,7 +24,7 @@
 <p><b>Update site:</b>Not yet avaliable for download, check back soon.<br />
 
 </div>
-
+EOHTML;
 $htmlDummyContent  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
