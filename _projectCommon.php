@@ -25,7 +25,7 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("MyProject", 	"/default");
+	$Nav->addNavSeparator("MyProject", 	"/windowbuilder");
 	$Nav->addCustomNav("Download", "/windowbuilder/download.php", "_self", 3);
 	$Nav->addCustomNav("Documentation", "/windowbuilder/documentation.php", "_blank", 3);
 	$Nav->addCustomNav("Support", "/windowbuilder/support.php", "_blank", 3);
