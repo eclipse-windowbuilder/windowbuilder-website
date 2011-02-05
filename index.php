@@ -16,7 +16,7 @@
 	
 	# Define these here, or in _projectCommon.php for site-wide values
 	$pageKeywords	= "eclipse, project, WindowBuilder, WindowBuilderPro, Instantiations, Google";
-	$pageAuthor		= "Your name";
+	$pageAuthor		= "Jaime Wren";
 	$pageTitle 		= "WindowBuilder";
 	
 	
