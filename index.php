@@ -15,9 +15,9 @@
 	$localVersion = false;
 	
 	# Define these here, or in _projectCommon.php for site-wide values
-	$pageKeywords	= "eclipse, project";
+	$pageKeywords	= "eclipse, project, WindowBuilder, WindowBuilderPro, Instantiations, Google";
 	$pageAuthor		= "Your name";
-	$pageTitle 		= "My project home";
+	$pageTitle 		= "WindowBuilder";
 	
 	
 	// 	# Paste your HTML content between the EOHTML markers!
