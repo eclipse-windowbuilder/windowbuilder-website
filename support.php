@@ -10,21 +10,13 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "WindowBuilder - Download";
+	$pageTitle 		= "WindowBuilder - Support";
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
-
-<h3>Helios - Eclipse 3.6</h3>
-<p><b>Update site:</b>http://dl.google.com/eclipse/inst/d2wbpro/latest/3.6<br />
-
-<h3>Galileo - Eclipse 3.5</h3>
-<p><b>Update site:</b>http://dl.google.com/eclipse/inst/d2wbpro/latest/3.5<br />
-
-<h3>Ganymede - Eclipse 3.4</h3>
-<p><b>Update site:</b>http://dl.google.com/eclipse/inst/d2wbpro/latest/3.4<br />
+<p><a href="http://www.eclipse.org/forums/index.php?t=msg&th=204099&start=0&S=7625d8ab46b00e13497393e863841f04">New Eclipse forum</a></p>
+<p><a href="http://forums.instantiations.com/viewforum.php?f=14">Current Forums</a>- these will be folded into the Eclipse forums soon.</p>
 
 
 </div>

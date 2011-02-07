@@ -10,22 +10,12 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "WindowBuilder - Download";
+	$pageTitle 		= "WindowBuilder - Documentation";
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
-
-<h3>Helios - Eclipse 3.6</h3>
-<p><b>Update site:</b>http://dl.google.com/eclipse/inst/d2wbpro/latest/3.6<br />
-
-<h3>Galileo - Eclipse 3.5</h3>
-<p><b>Update site:</b>http://dl.google.com/eclipse/inst/d2wbpro/latest/3.5<br />
-
-<h3>Ganymede - Eclipse 3.4</h3>
-<p><b>Update site:</b>http://dl.google.com/eclipse/inst/d2wbpro/latest/3.4<br />
-
+<p>See the documentation on our Google Code page at <a href="http://code.google.com/javadevtools/wbpro/index.html">http://code.google.com/javadevtools/wbpro/index.html</a>.</p>
 
 </div>
 EOHTML;
