@@ -15,7 +15,7 @@
 	$localVersion = false;
 	
 	# Define these here, or in _projectCommon.php for site-wide values
-	$pageKeywords	= "eclipse, project, WindowBuilder, WindowBuilderPro, Instantiations, Google";
+	$pageKeywords	= "";
 	$pageAuthor		= "Jaime Wren";
 	$pageTitle 		= "WindowBuilder";
 	
