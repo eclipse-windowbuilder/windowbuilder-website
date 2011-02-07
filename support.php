@@ -15,8 +15,8 @@
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p><a href="http://www.eclipse.org/forums/index.php?t=msg&th=204099&start=0&S=7625d8ab46b00e13497393e863841f04">New Eclipse forum</a></p>
-<p><a href="http://forums.instantiations.com/viewforum.php?f=14">Current Forums</a>- these will be folded into the Eclipse forums soon.</p>
+<p><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=214&S=7625d8ab46b00e13497393e863841f04">Eclipse forum</a></p>
+<p><a href="http://forums.instantiations.com/viewforum.php?f=14">Current Forums</a>- this content will be folded into the Eclipse forum (link above) soon.</p>
 
 
 </div>
