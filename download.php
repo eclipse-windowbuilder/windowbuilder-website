@@ -36,6 +36,20 @@
 
 <h4>Eclipse 3.4 (Ganymede)</h4>
 <a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.4">http://download.eclipse.org/windowbuilder/WBPro/integration/3.4</a>
+</br>
+
+<h3>Zipped Update Sites</h3>
+<h4>Eclipse 3.7</h4>
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.7.zip">http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.7.zip</a>
+
+<h4>Eclipse 3.6 (Helios)</h4>
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.6.zip">http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.6.zip</a>
+
+<h4>Eclipse 3.5 (Galileo)</h4>
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.5.zip">http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.5.zip</a>
+
+<h4>Eclipse 3.4 (Ganymede)</h4>
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip">http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip</a>
 
 </div>
 EOHTML;
