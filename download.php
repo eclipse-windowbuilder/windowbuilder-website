@@ -17,7 +17,7 @@
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
-<table border="1">
+<table border="1" cellpadding="3">
   <tr>
     <th></th>
     <th>Update Site</th>
