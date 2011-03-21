@@ -10,20 +10,32 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "WindowBuilder - Download";
+	$pageTitle 		= "Installing WindowBuilder Pro";
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
+<p>Develop Java graphical user interfaces in minutes for Swing, SWT, RCP, XWT and GWT with WindowBuilder Pro&rsquo;s WYSIWYG, drag-and-drop interface. Use wizards, editors and intelligent layout assist to automatically generate clean Java code, with the visual design and source always in sync.</p>
+
+<p>These instructions assume that you have already installed some flavor of Eclipse. If you have not, Eclipse can be downloaded from <a href="http://www.eclipse.org/downloads/">http://www.eclipse.org/downloads/</a>.</p>
+
+
+
 <h3>Update Sites</h3>
-<ul>
-<li>Eclipse 3.7 - <a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.7">Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.7.zip">Zipped Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a></li>
-<li>Eclipse 3.6 - <a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.6">Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.6.zip">Zipped Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a></li>
-<li>Eclipse 3.5 - <a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.5">Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.5.zip">Zipped Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.5.zip.MD5">MD5 Hash</a></li>
-<li>Eclipse 3.4 - <a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.4">Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip">Zipped Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a></li>
-</ul>
+<p>If you are already familiar with installing Eclipse plug-ins, you can just use the update site URL below for your version of Eclipse.</p>
+<h4>Eclipse 3.7</h4>
+<a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.7">http://download.eclipse.org/windowbuilder/WBPro/integration/3.7</a>
+
+<h4>Eclipse 3.6 (Helios)</h4>
+<a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.6">http://download.eclipse.org/windowbuilder/WBPro/integration/3.6</a>
+
+<h4>Eclipse 3.5 (Galileo)</h4>
+<a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.5">http://download.eclipse.org/windowbuilder/WBPro/integration/3.5</a>
+
+<h4>Eclipse 3.4 (Ganymede)</h4>
+<a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.4">http://download.eclipse.org/windowbuilder/WBPro/integration/3.4</a>
 
 </div>
 EOHTML;
