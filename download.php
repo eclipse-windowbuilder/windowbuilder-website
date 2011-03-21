@@ -25,41 +25,6 @@
 <li>Eclipse 3.4 - <a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.4">Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip">Zipped Update Site</a> | <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a></li>
 </ul>
 
-
-<table>
-  <tr>
-    <th></th>
-    <th>Update Site</th>
-    <th>Zipped Update Site</th>
-    <th>MD5 Hashes</th>
-  </tr>
-  <tr>
-    <td>Eclipse 3.7</td>
-    <td><a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.7">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.7.zip">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.7.zip.MD5">link</a></td>
-  </tr>
-  <tr>
-    <td>Helios- Eclipse 3.6</td>
-    <td><a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.6">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.6.zip">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.6.zip.MD5">link</a></td>
-  </tr>
-  <tr>
-    <td>Galileo- Eclipse 3.5</td>
-    <td><a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.5">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.5.zip">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.5.zip.MD5">link</a></td>
-  </tr>
-  <tr>
-    <td>Ganymede- Eclipse 3.4</td>
-    <td><a href="http://download.eclipse.org/windowbuilder/WBPro/integration/3.4">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip">link</a></td>
-    <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WBPro/integration/WBPro_v0.9.0_UpdateSite_for_Eclipse3.4.zip.MD5">link</a></td>
-  </tr>
-</table>
-
-
 </div>
 EOHTML;
 
