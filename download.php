@@ -26,16 +26,16 @@
 <h3>Update Sites</h3>
 <p>If you are already familiar with installing Eclipse plug-ins, you can just use the update site URL below for your version of Eclipse.</p>
 <h4>Eclipse 3.7</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.7">http://download.eclipse.org/windowbuilder/WBPro/integration/3.7</a>
+<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.7">http://download.eclipse.org/windowbuilder/WB/integration/3.7</a>
 
 <h4>Eclipse 3.6 (Helios)</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6">http://download.eclipse.org/windowbuilder/WBPro/integration/3.6</a>
+<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6">http://download.eclipse.org/windowbuilder/WB/integration/3.6</a>
 
 <h4>Eclipse 3.5 (Galileo)</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.5">http://download.eclipse.org/windowbuilder/WBPro/integration/3.5</a>
+<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.5">http://download.eclipse.org/windowbuilder/WB/integration/3.5</a>
 
 <h4>Eclipse 3.4 (Ganymede)</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.4">http://download.eclipse.org/windowbuilder/WBPro/integration/3.4</a>
+<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.4">http://download.eclipse.org/windowbuilder/WB/integration/3.4</a>
 </br>
 <p></p>
 <h3>Zipped Update Sites</h3>
