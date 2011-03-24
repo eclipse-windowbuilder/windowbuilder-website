@@ -17,8 +17,7 @@
 <h2>$pageTitle</h2>
 
 <p>Public read only: <code><a href="http://dev.eclipse.org/svnroot/tools/org.eclipse.windowbuilder">http://dev.eclipse.org/svnroot/tools/org.eclipse.windowbuilder</a></code></p>
-<p>Committer access: <code>svn+ssh://<committerid>@dev.eclipse.org/svnroot/tools/org.eclipse.windowbuilder</code></p>
-<p>EclipseLabs Extras: <code><ahref="https://svn.codespot.com/a/eclipselabs.org/windowbuilder-extras/trunk">https://svn.codespot.com/a/eclipselabs.org/windowbuilder-extras/trunk</a></code></p>
+<p>EclipseLabs Extras: <code><a href="https://svn.codespot.com/a/eclipselabs.org/windowbuilder-extras/trunk">https://svn.codespot.com/a/eclipselabs.org/windowbuilder-extras/trunk</a></code></p>
 
 </div>
 EOHTML;
