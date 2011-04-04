@@ -51,7 +51,8 @@
 <h4>Eclipse 3.4 (Ganymede)</h4>
 <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.4.zip">WB_v0.9.0_UpdateSite_for_Eclipse3.4.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)
 
-<p><i>Installing the Update Site or Zip editions for Eclipse 3.4 or above requires the full Eclipse SDK including the JDT and PDE. Use the Eclipse Classic, Java EE or RCP/Plug-in Developers distribution or install the JDT and PDE separately.</i></p>
+<p> </p>
+<p><b><i>Installing the Update Site or Zip editions for Eclipse 3.4 or above requires the full Eclipse SDK including the JDT and PDE. Use the Eclipse Classic, Java EE or RCP/Plug-in Developers distribution or install the JDT and PDE separately.</i></b></p>
 
 </div>
 EOHTML;
