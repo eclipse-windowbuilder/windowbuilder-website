@@ -19,7 +19,7 @@
 
 <p>Develop Java graphical user interfaces in minutes for Swing, SWT, RCP and XWT with WindowBuilder Pro&rsquo;s WYSIWYG, drag-and-drop interface. Use wizards, editors and intelligent layout assist to automatically generate clean Java code, with the visual design and source always in sync.</p>
 
-<p>These instructions assume that you have already installed some flavor of Eclipse. If you have not, Eclipse can be downloaded from <a href="http://www.eclipse.org/downloads/">http://www.eclipse.org/downloads/</a>.</p>
+<p>These instructions assume that you have already installed some flavor of Eclipse. If you have not, Eclipse can be downloaded from <a href="http://www.eclipse.org/downloads/">http://www.eclipse.org/downloads/</a>. Instructions and system requirements for installing WindowBuilder can be found <a href="http://code.google.com/javadevtools/wbpro/installation/index.html">here</a>.</p>
 
 
 
