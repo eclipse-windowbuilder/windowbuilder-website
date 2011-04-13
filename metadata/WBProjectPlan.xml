@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml"
+      name="Project Name">
+   <release projectid="technology.windowbuilder" version="1.0"/>
+   <introduction>
+     <html:div><html:p><html:b>WindowBuilder</html:b> is a powerful and easy to use bi-directional Java GUI designer that makes it very 
+      easy to create Java GUI applications without spending a lot of time writing code to display simple forms. With
+      <html:b>WindowBuilder</html:b> 
+      you can create complicated windows in minutes.  Use the visual designer and Java code will be generated for you. You can easily 
+      add controls using drag-and-drop, add event handlers to your controls, change various properties of controls using a property editor, 
+      internationalize your app and much more.</html:p>
+     </html:div>
+   </introduction>
+   <release_deliverables>
+     <html:div><html:p>The WindowBuilder project delivers bi-directional Java GUI designer.</html:p></html:div>
+   </release_deliverables>
+   <release_milestones>
+      <preamble />
+      <milestone date="5/6/2011" milestone="M7"><html:div>May Milestone (M7)</html:div></milestone>
+      <milestone date="5/20/2011" milestone="RC1"><html:div>Release Candidate 1</html:div></milestone>
+      <milestone date="5/27/2011" milestone="RC2"><html:div>Release Candidate 2</html:div></milestone>
+      <milestone date="6/3/2011" milestone="RC3"><html:div>Release Candidate 3</html:div></milestone>
+      <milestone date="6/10/2011" milestone="RC4"><html:div>Release Candidate 4</html:div></milestone>
+      <milestone date="6/22/2011" milestone="Release"><html:div>Release</html:div></milestone>
+      <postamble />
+   </release_milestones>
+   <target_environments>
+     <html:div>Some xhtml content here.  Make sure to use the prefix before the elements</html:div>
+     <internationalization>
+          <html:div><html:p>None of the WindowBuilder deliverables are internationalized.</html:p></html:div>
+     </internationalization>
+   </target_environments>
+   <compatibility_with_previous_releases>
+       <html:div>Some xhtml content here.  Make sure to use the prefix before the elements</html:div>
+   </compatibility_with_previous_releases>
+   <themes_and_priorities>
+     <preamble>
+         <html:div>WindowBuilder is a new project in the Eclipse community.  We want to make the </html:div>
+     </preamble>
+     <theme name="Get the code into the Eclipse 3.7 release train">
+        <description><html:p>Our goal is to get WindowBuilder into the Eclipse 3.7 Release train and be delivered with Eclipse 3.7</html:p></description>
+     </theme>
+     <theme name="Deploy the public API for WindowBuilder">
+        <description><html:p>Our goal is to Publish a public API for WindowBuilder</html:p></description>
+     </theme>
+   </themes_and_priorities>
+   <!-- 
+   <appendix name="Project Refactoring">
+     ...html...
+   </appendix>
+    -->  
+ </plan>
