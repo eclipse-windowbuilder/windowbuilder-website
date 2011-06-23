@@ -25,8 +25,8 @@
 
 <h3>Update Sites</h3>
 <p>If you are already familiar with installing Eclipse plug-ins, you can just use the update site URL below for your version of Eclipse.</p>
-<h4>Eclipse 3.7</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.7">http://download.eclipse.org/windowbuilder/WB/integration/3.7</a>
+<h4>Eclipse 3.7 (Indigo)</h4>
+<a href="http://download.eclipse.org/windowbuilder/WB/release/R201106211200/3.7/">http://download.eclipse.org/windowbuilder/WB/release/R201106211200/3.7/</a>
 
 <h4>Eclipse 3.6 (Helios)</h4>
 <a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6">http://download.eclipse.org/windowbuilder/WB/integration/3.6</a>
@@ -39,7 +39,7 @@
 </br>
 <p></p>
 <h3>Zipped Update Sites</h3>
-<h4>Eclipse 3.7</h4>
+<h4>Eclipse 3.7 (Indigo)</h4>
 <a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.7.zip">WB_v0.9.0_UpdateSite_for_Eclipse3.7.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)
 
 <h4>Eclipse 3.6 (Helios)</h4>
