@@ -40,16 +40,16 @@
 <p></p>
 <h3>Zipped Update Sites</h3>
 <h4>Eclipse 3.7 (Indigo)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.7.zip">WB_v0.9.0_UpdateSite_for_Eclipse3.7.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)
 
 <h4>Eclipse 3.6 (Helios)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.6.zip">WB_v0.9.0_UpdateSite_for_Eclipse3.6.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)
 
 <h4>Eclipse 3.5 (Galileo)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.5.zip">WB_v0.9.0_UpdateSite_for_Eclipse3.5.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.5.zip.MD5">MD5 Hash</a>)
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip.MD5">MD5 Hash</a>)
 
 <h4>Eclipse 3.4 (Ganymede)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.4.zip">WB_v0.9.0_UpdateSite_for_Eclipse3.4.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v0.9.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)
+<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)
 
 <p> </p>
 <p><b><i>Installing the Update Site or Zip editions for Eclipse 3.4 or above requires the full Eclipse SDK including the JDT and PDE. Use the Eclipse Classic, Java EE or RCP/Plug-in Developers distribution or install the JDT and PDE separately.</i></b></p>
