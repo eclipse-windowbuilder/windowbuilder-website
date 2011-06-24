@@ -27,9 +27,9 @@
 
 <table border="2">
 <tr>
-  <th>Eclipse Version</th>
-  <th colspan="2">Release Version</th>
-  <th colspan="2">Integration Version</th>
+  <th><b>Eclipse Version</b></th>
+  <th colspan="2"><b>Release Version</b></th>
+  <th colspan="2"><b>Integration Version</b></th>
 </tr>
 <tr>
   <td></td>
