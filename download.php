@@ -24,32 +24,49 @@
 
 
 <h3>Update Sites</h3>
-<p>If you are already familiar with installing Eclipse plug-ins, you can just use the update site URL below for your version of Eclipse.</p>
-<h4>Eclipse 3.7 (Indigo)</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/release/R201106211200/3.7/">http://download.eclipse.org/windowbuilder/WB/release/R201106211200/3.7/</a>
 
-<h4>Eclipse 3.6 (Helios)</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6">http://download.eclipse.org/windowbuilder/WB/integration/3.6</a>
-
-<h4>Eclipse 3.5 (Galileo)</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.5">http://download.eclipse.org/windowbuilder/WB/integration/3.5</a>
-
-<h4>Eclipse 3.4 (Ganymede)</h4>
-<a href="http://download.eclipse.org/windowbuilder/WB/integration/3.4">http://download.eclipse.org/windowbuilder/WB/integration/3.4</a>
-</br>
-<p></p>
-<h3>Zipped Update Sites</h3>
-<h4>Eclipse 3.7 (Indigo)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)
-
-<h4>Eclipse 3.6 (Helios)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)
-
-<h4>Eclipse 3.5 (Galileo)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip.MD5">MD5 Hash</a>)
-
-<h4>Eclipse 3.4 (Ganymede)</h4>
-<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip">WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip</a> (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)
+<table border="2">
+<tr>
+  <th>Eclipse Version</th>
+  <th colspan="2">Release Version</th>
+  <th colspan="2">Integration Version</th>
+</tr>
+<tr>
+  <td></td>
+  <td><b>Update Site</b></td>
+  <td><b>Zipped Update Site</b></td>
+  <td><b>Update Site</b></td>
+  <td><b>Zipped Update Site</b></td>
+</tr>
+<tr>
+  <td>3.7 (Indigo)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201106211200/3.7/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.7/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)</td>
+</tr>
+<tr>
+  <td>3.6 (Helios)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)</td>
+</tr>
+<tr>
+  <td>3.5 (Galileo)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.5/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.5/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.5.zip.MD5">MD5 Hash</a>)</td>
+</tr>
+<tr>
+  <td>3.4 (Ganymede)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.4/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.4/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)</td>
+</tr>
+</table>
 
 <p> </p>
 <p><b><i>Installing the Update Site or Zip editions for Eclipse 3.4 or above requires the full Eclipse SDK including the JDT and PDE. Use the Eclipse Classic, Java EE or RCP/Plug-in Developers distribution or install the JDT and PDE separately.</i></b></p>
