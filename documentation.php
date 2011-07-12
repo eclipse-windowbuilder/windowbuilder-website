@@ -15,7 +15,7 @@
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>See the latest Indigo documentation <a href="here">http://help.eclipse.org/indigo/topic/org.eclipse.wb.doc.user/html/index.html</a>.</p>
+<p>See the latest Indigo documentation <a href="http://help.eclipse.org/indigo/topic/org.eclipse.wb.doc.user/html/index.html">here</a>.</p>
 
 </div>
 EOHTML;
