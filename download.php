@@ -68,8 +68,8 @@
 </tr>
 <tr>
   <td>3.4 (Ganymede)</td>
-  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201109201200/3.4/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201109201200/WB_v1.1.0_UpdateSite_for_Eclipse3.4.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201109201200/WB_v1.1.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201106211200/3.4/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201106211200/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201106211200/WB_v1.0.0_UpdateSite_for_Eclipse3.4.zip.MD5">MD5 Hash</a>)</td>
   <td></td>
   <td></td>
 </tr>
