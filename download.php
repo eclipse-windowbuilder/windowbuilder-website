@@ -43,7 +43,7 @@
   <td></td>
   <td></td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.8/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.2.0_UpdateSite_for_Eclipse3.7.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.2.0_UpdateSite_for_Eclipse3.8.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.2.0_UpdateSite_for_Eclipse3.8.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.2.0_UpdateSite_for_Eclipse3.8.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>3.7 (Indigo)</td>
