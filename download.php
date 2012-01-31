@@ -39,6 +39,13 @@
   <td><b>Zipped Update Site</b></td>
 </tr>
 <tr>
+  <td>4.2 (Juno)</td>
+  <td></td>
+  <td></td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.2/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.2.0_UpdateSite_for_Eclipse4.2.zip">link</a>(<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.2.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
+</tr>
+<tr>
   <td>3.8 (Juno)</td>
   <td></td>
   <td></td>
