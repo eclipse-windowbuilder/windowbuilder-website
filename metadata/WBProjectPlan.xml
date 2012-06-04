@@ -18,7 +18,7 @@
    <release_milestones>
       <preamble />
       <milestone date="06/27/2012" milestone="1.5.0"><html:div>WB 1.5.0 should be released and included in the Juno simultaneous release</html:div></milestone>
-      <milestone date="09/28/2011" milestone="1.5.1"><html:div>WB 1.5.1 should be released and included in the Juno SR1 release</html:div></milestone>
+      <milestone date="09/28/2012" milestone="1.5.1"><html:div>WB 1.5.1 should be released and included in the Juno SR1 release</html:div></milestone>
       <postamble />
    </release_milestones>
    <target_environments>
