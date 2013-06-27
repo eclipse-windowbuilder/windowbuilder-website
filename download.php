@@ -44,47 +44,48 @@ Instructions and system requirements for installing WindowBuilder can be found
 </tr>
 <tr>
   <td>4.3 (Kepler)</td>
-  <td></td>
-  <td></td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201306261200/4.3/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse4.3.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.3/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse4.3.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse4.3.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_1.6.0se4.2.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>4.2 (Juno)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201209281200/4.2/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.2/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>3.8 (Juno)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201209281200/4.2/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.2/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>3.7 (Indigo)</td>
-  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201302221200/3.7/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse3.7.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201306261200/3.7/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse3.7.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.7/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse3.7.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse3.7.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>3.6 (Helios)</td>
-  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201302221200/3.6/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse3.6.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201302221200/WB_v1.5.2_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201306261200/3.6/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse3.6.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse3.6.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.5.2_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)</td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse3.6.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>3.5 (Galileo)</td>
