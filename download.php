@@ -88,11 +88,11 @@ Instructions and system requirements for installing WindowBuilder can be found
 </tr>
 <tr>
   <td>3.6 (Helios)</td>
+  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201306261200/3.6/">link</a></td>
+  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6/0_UpdateSite_for_Eclipse3.7.zip">link</a>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.0_UpdateSite_for_Eclipse3.7.zip.MD5">MD5 Hash</a>)</td>
   <td></td>
   <td></td>
-  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/3.6/">link</a></td>
-  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse3.6.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.0_UpdateSite_for_Eclipse3.6.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>3.5 (Galileo)</td>
