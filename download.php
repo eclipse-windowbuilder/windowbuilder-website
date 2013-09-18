@@ -57,7 +57,7 @@ Instructions and system requirements for installing WindowBuilder can be found
   (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201306261200/WB_v1.6.1_UpdateSite_for_Eclipse4.3.zip.MD5">MD5 Hash</a>)</td>
   <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.3/">link</a></td>
   <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.1_UpdateSite_for_Eclipse4.3.zip">link</a>
-  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.1_UpdateSite_for_1.6.0se4.2.zip.MD5">MD5 Hash</a>)</td>
+  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.6.1_UpdateSite_for_Eclipse4.3.zip.MD5">MD5 Hash</a>)</td>
 </tr>
 <tr>
   <td>4.2 (Juno)</td>
