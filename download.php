@@ -25,7 +25,7 @@ clean Java code, with the visual design and source always in sync.</p>
 <p>These instructions assume that you have already installed some flavor of Eclipse. If you have not, Eclipse 
 can be downloaded from <a href="http://www.eclipse.org/downloads/">http://www.eclipse.org/downloads/</a>. 
 Instructions and system requirements for installing WindowBuilder can be found 
-<a href="http://code.google.com/javadevtools/wbpro/installation/index.html">here</a>.</p>
+<a href="http://help.eclipse.org/kepler/index.jsp?topic=/org.eclipse.wb.doc.user.html/installation/Findex.html">here</a>.</p>
 
 <h3>Update Sites</h3>
 
