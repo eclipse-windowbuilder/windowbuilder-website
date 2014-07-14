@@ -71,7 +71,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 	</tr>
 	<tr>
 	  <td>3.8 (Juno)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201309271200/4.2/">link</a></td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.2/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.2.zip">link</a>
 	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
 	  <td></td>
