@@ -16,8 +16,8 @@
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 
-<p>Public read only: <code><a href="http://dev.eclipse.org/svnroot/tools/org.eclipse.windowbuilder">http://dev.eclipse.org/svnroot/tools/org.eclipse.windowbuilder</a></code></p>
-<p>EclipseLabs Extras: <code><a href="https://svn.codespot.com/a/eclipselabs.org/windowbuilder-extras/trunk">https://svn.codespot.com/a/eclipselabs.org/windowbuilder-extras/trunk</a></code></p>
+<p>Public read only: <code><a href="https://git.eclipse.org/c/windowbuilder/org.eclipse.windowbuilder.git">https://git.eclipse.org/c/windowbuilder/org.eclipse.windowbuilder.git/</a></code></p>
+<p>EclipseLabs Extras: <code><a href="https://code.google.com/a/eclipselabs.org/p/windowbuilder-extras/source/browse">https://code.google.com/a/eclipselabs.org/p/windowbuilder-extras/source/browse</a></code></p>
 
 </div>
 EOHTML;
