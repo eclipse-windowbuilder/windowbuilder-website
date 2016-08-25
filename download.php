@@ -43,6 +43,20 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td><b>Zipped Update Site</b></td>
 	</tr>
 	<tr>
+	  <td>4.7 (Oxygen)</td>
+	  <td></td>
+	  <td></td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.7/">link</a></td>
+	  <td></td>
+	</tr>
+	<tr>
+	  <td>4.6 (Neon)</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/4.6/">link</a></td>
+	  <td></td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.6/">link</a></td>
+	  <td></td>
+	</tr>
+	<tr>
 	  <td>4.5 (Mars)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201506241200-1/4.5/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201506241200-1/WB_v1.8.0_UpdateSite_for_Eclipse4.5.zip">link</a>
