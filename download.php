@@ -25,7 +25,7 @@ clean Java code, with the visual design and source always in sync.</p>
 <p>These instructions assume that you have already installed some flavor of Eclipse. If you have not, Eclipse 
 can be downloaded from <a href="http://www.eclipse.org/downloads/">http://www.eclipse.org/downloads/</a>. 
 Instructions and system requirements for installing WindowBuilder can be found 
-<a href="http://help.eclipse.org/kepler/index.jsp?topic=/org.eclipse.wb.doc.user/html/installation/index.html">here</a>.</p>
+<a href="http://help.eclipse.org/index.jsp?topic=/org.eclipse.wb.doc.user/html/installation/index.html">here</a>.</p>
 
 <h3>Update Sites</h3>
 
@@ -41,6 +41,13 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td><b>Zipped Update Site</b></td>
 	  <td><b>Update Site</b></td>
 	  <td><b>Zipped Update Site</b></td>
+	</tr>
+	<tr>
+	  <td>4.8 (Photon)</td>
+	  <td></td>
+	  <td></td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.8/">link</a></td>
+	  <td></td>
 	</tr>
 	<tr>
 	  <td>4.7 (Oxygen)</td>
@@ -101,7 +108,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 </table>
 
 <p> </p>
-<p><b><i>Installing the Update Site or Zip editions for Eclipse 3.4 or above requires the full Eclipse SDK including the JDT and PDE. 
+<p><b><i>Installing the Update Site or Zip editions requires the full Eclipse SDK including the JDT and PDE. 
 Use the Eclipse Classic, Java EE or RCP/Plug-in Developers distribution or install the JDT and PDE separately.</i></b></p>
 
 </div>
