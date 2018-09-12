@@ -31,79 +31,39 @@ Instructions and system requirements for installing WindowBuilder can be found
 
 <table border="2">
 	<tr>
-	  <th><b>Eclipse Version</b></th>
-	  <th colspan="2"><b>Release Version</b></th>
-	  <th colspan="2"><b>Integration Version</b></th>
+	  <th><b>Version</b></th>
+	  <th colspan="2"><b>Download</b></th>
 	</tr>
 	<tr>
 	  <td></td>
 	  <td><b>Update Site</b></td>
 	  <td><b>Zipped Update Site</b></td>
-	  <td><b>Update Site</b></td>
-	  <td><b>Zipped Update Site</b></td>
 	</tr>
 	<tr>
-	  <td>4.8 (Photon)</td>
-	  <td></td>
-	  <td></td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.8/">link</a></td>
-	  <td></td>
+	  <td>Latest (1.9,1)</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/latest/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a>
+	</td>
 	</tr>
 	<tr>
-	  <td>4.7 (Oxygen)</td>
-	  <td></td>
-	  <td></td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.7/">link</a></td>
-	  <td></td>
+	  <td>Last Good Build</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/lastgoodbuild/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/lastgoodbuild/repository.zip">link</a>
 	</tr>
 	<tr>
-	  <td>4.6 (Neon)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/4.6/">link</a></td>
-	  <td></td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.6/">link</a></td>
-	  <td></td>
+	  <td>Gerrit</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/gerrit/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/gerrit/repository.zip">link</a>
 	</tr>
 	<tr>
-	  <td>4.5 (Mars)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201506241200-1/4.5/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201506241200-1/WB_v1.8.0_UpdateSite_for_Eclipse4.5.zip">link</a>
-	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201506241200-1/WB_v1.8.0_UpdateSite_for_Eclipse4.5.zip.MD5">MD5 Hash</a>)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.5/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.8.0_UpdateSite_for_Eclipse4.5.zip">link</a>
-	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.8.0_UpdateSite_for_Eclipse4.5.zip.MD5">MD5 Hash</a>)</td>
+	  <td>1.9.1 (Permanent)</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/1.9.1/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.1/repository.zip">link</a>
 	</tr>
 	<tr>
-	  <td>4.4 (Luna)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201506241200-1/4.4/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201506241200-1/WB_v1.8.0_UpdateSite_for_Eclipse4.4.zip">link</a>
-	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201506241200-1/WB_v1.8.0_UpdateSite_for_Eclipse4.4.zip.MD5">MD5 Hash</a>)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/integration/4.4/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.8.0_UpdateSite_for_Eclipse4.4.zip">link</a>
-	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/integration/WB_v1.8.0_UpdateSite_for_Eclipse4.4.zip.MD5">MD5 Hash</a>)</td>
-	</tr>
-	<tr>
-	  <td>4.3 (Kepler)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.3/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.3.zip">link</a>
-	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.3.zip.MD5">MD5 Hash</a>)</td>
-	  <td></td>
-	  <td></td>
-	</tr>
-	<tr>
-	  <td>4.2 (Juno)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.2/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.2.zip">link</a>
-	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
-	  <td></td>
-	  <td></td>
-	</tr>
-	<tr>
-	  <td>3.8 (Juno)</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/WB/release/R201406251200/4.2/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.2.zip">link</a>
-	  (<a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/WB/release/R201406251200/WB_v1.7.0_UpdateSite_for_Eclipse4.2.zip.MD5">MD5 Hash</a>)</td>
-	  <td></td>
-	  <td></td>
+	  <td>1.9.0 (Permanent)</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/1.9.0/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.0/repository.zip">link</a>
 	</tr>
 </table>
 
