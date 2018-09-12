@@ -48,22 +48,27 @@ Instructions and system requirements for installing WindowBuilder can be found
 	<tr>
 	  <td>Last Good Build</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/lastgoodbuild/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/lastgoodbuild/repository.zip">link</a>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/lastgoodbuild/repository.zip">link</a></td>
 	</tr>
 	<tr>
 	  <td>Gerrit</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/gerrit/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/gerrit/repository.zip">link</a>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/gerrit/repository.zip">link</a></td>
 	</tr>
 	<tr>
 	  <td>1.9.1 (Permanent)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/1.9.1/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.1/repository.zip">link</a>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.1/repository.zip">link</a></td>
 	</tr>
 	<tr>
 	  <td>1.9.0 (Permanent)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/1.9.0/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.0/repository.zip">link</a>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.0/repository.zip">link</a></td>
+	</tr>
+	<tr>
+	  <td>Archives</td>
+	  <td><a href="http://archive.eclipse.org/windowbuilder/">link</a></td>
+	  <td></td>
 	</tr>
 </table>
 
