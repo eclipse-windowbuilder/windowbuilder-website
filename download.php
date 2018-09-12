@@ -31,11 +31,11 @@ Instructions and system requirements for installing WindowBuilder can be found
 
 <table border="2">
 	<tr>
-	  <th><b>Version</b></th>
+	  <th><b></b></th>
 	  <th colspan="2"><b>Download</b></th>
 	</tr>
 	<tr>
-	  <td></td>
+	  <td>Version</td>
 	  <td><b>Update Site</b></td>
 	  <td><b>Zipped Update Site</b></td>
 	</tr>
