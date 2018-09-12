@@ -40,7 +40,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td><b>Zipped Update Site</b></td>
 	</tr>
 	<tr>
-	  <td>Latest (1.9,1)</td>
+	  <td>Latest (1.9.1)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/latest/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a>
 	</td>
