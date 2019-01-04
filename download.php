@@ -40,7 +40,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td><b>Zipped Update Site</b></td>
 	</tr>
 	<tr>
-	  <td>Latest (1.9.1)</td>
+	  <td>Latest (1.9.2)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/latest/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a>
 	</td>
@@ -54,6 +54,11 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td>Gerrit</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/gerrit/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/gerrit/repository.zip">link</a></td>
+	</tr>
+	<tr>
+	  <td>1.9.2 (Permanent)</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/1.9.2/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.2/repository.zip">link</a></td>
 	</tr>
 	<tr>
 	  <td>1.9.1 (Permanent)</td>
