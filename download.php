@@ -32,12 +32,13 @@ Instructions and system requirements for installing WindowBuilder can be found
 <table border="2">
 	<tr>
 	  <th></th>
-	  <th colspan="2"><b>Download</b></th>
+	  <th colspan="3"><b>Download and Install</b></th>
 	</tr>
 	<tr>
 	  <td><b>Version</b></td>
 	  <td><b>Update Site</b></td>
 	  <td><b>Zipped Update Site</b></td>
+	  <td><b>Marketplace</b></td>
 	</tr>
 	<tr>
 	  <td>Latest (1.9.2)</td>
@@ -53,15 +54,24 @@ Instructions and system requirements for installing WindowBuilder can be found
 				<br /><sup>*</sup>Requires Eclipse Marketplace Client</div></a></div>
 	  </td>
 	</tr>
+	  <td>Gerrit</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/gerrit/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/gerrit/repository.zip">link</a></td>
+	</tr>
 	<tr>
 	  <td>Last Good Build</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/lastgoodbuild/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/lastgoodbuild/repository.zip">link</a></td>
-	</tr>
-	<tr>
-	  <td>Gerrit</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/gerrit/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/gerrit/repository.zip">link</a></td>
+	  <td>
+		<div class="drag_installbutton drag_installbutton_v2">
+			<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4961416" class="drag"
+				title="Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client"><span
+					class="btn btn-default"><i class="fa fa-download orange"></i> Install</span>
+			<div class="tooltip">
+				<h3>Drag to Install!</h3>Drag to your running Eclipse<sup>*</sup> workspace.
+				<br /><sup>*</sup>Requires Eclipse Marketplace Client
+			</div></a></div>
+	  </td>
 	</tr>
 	<tr>
 	  <td>1.9.2 (Permanent)</td>
