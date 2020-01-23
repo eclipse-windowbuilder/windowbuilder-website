@@ -42,8 +42,16 @@ Instructions and system requirements for installing WindowBuilder can be found
 	<tr>
 	  <td>Latest (1.9.2)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/latest/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a>
-	</td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a></td>
+	   <td>
+	  	<div class="drag_installbutton drag_installbutton_v2">
+			<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4008412" class="drag"
+			title="Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client"><span
+				class="btn btn-default"><i class="fa fa-download orange"></i> Install</span>
+			<div class="tooltip">
+				<h3>Drag to Install!</h3>Drag to your running Eclipse<sup>*</sup> workspace.
+				<br /><sup>*</sup>Requires Eclipse Marketplace Client</div></a></div>
+	  </td>
 	</tr>
 	<tr>
 	  <td>Last Good Build</td>
