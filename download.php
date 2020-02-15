@@ -41,7 +41,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td><b>Marketplace</b></td>
 	</tr>
 	<tr>
-	  <td>Latest (1.9.2)</td>
+	  <td>Latest (1.9.3)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/latest/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a></td>
 	   <td>
@@ -72,6 +72,11 @@ Instructions and system requirements for installing WindowBuilder can be found
 				<br /><sup>*</sup>Requires Eclipse Marketplace Client
 			</div></a></div>
 	  </td>
+	</tr>
+	<tr>
+	  <td>1.9.3 (Permanent)</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/1.9.3/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.3/repository.zip">link</a></td>
 	</tr>
 	<tr>
 	  <td>1.9.2 (Permanent)</td>
