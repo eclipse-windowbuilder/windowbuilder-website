@@ -41,7 +41,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td><b>Marketplace</b></td>
 	</tr>
 	<tr>
-	  <td>Latest (1.9.3)</td>
+	  <td>Latest (1.9.4)</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/latest/">link</a></td>
 	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a></td>
 	   <td>
@@ -53,11 +53,6 @@ Instructions and system requirements for installing WindowBuilder can be found
 				<h3>Drag to Install!</h3>Drag to your running Eclipse<sup>*</sup> workspace.
 				<br /><sup>*</sup>Requires Eclipse Marketplace Client</div></a></div>
 	  </td>
-	</tr>
-	  <td>Gerrit</td>
-	  <td><a href="http://download.eclipse.org/windowbuilder/gerrit/">link</a></td>
-	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/gerrit/repository.zip">link</a></td>
-	</tr>
 	<tr>
 	  <td>Last Good Build</td>
 	  <td><a href="http://download.eclipse.org/windowbuilder/lastgoodbuild/">link</a></td>
@@ -72,6 +67,11 @@ Instructions and system requirements for installing WindowBuilder can be found
 				<br /><sup>*</sup>Requires Eclipse Marketplace Client
 			</div></a></div>
 	  </td>
+	</tr>
+	<tr>
+	  <td>1.9.4 (Permanent)</td>
+	  <td><a href="http://download.eclipse.org/windowbuilder/1.9.4/">link</a></td>
+	  <td><a href="http://eclipse.org/downloads/download.php?file=/windowbuilder/1.9.4/repository.zip">link</a></td>
 	</tr>
 	<tr>
 	  <td>1.9.3 (Permanent)</td>
