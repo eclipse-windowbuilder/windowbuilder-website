@@ -10,16 +10,20 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "WindowBuilder - Support";
+require_once ('_projectCommon.php');
+$pageTitle 		= "WindowBuilder | Support";
+$Breadcrumb->removeCrumb($Breadcrumb->getCrumbCount() - 1);
+$Breadcrumb->addCrumb("Support", "support.php", "_self");
 
-	$html  = <<<EOHTML
+$html  = <<<EOHTML
 <div id="midcolumn">
-	<h2>$pageTitle</h2>
-	<p><a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=214&S=7625d8ab46b00e13497393e863841f04">Eclipse forum</a></p>
-
+<h2>$pageTitle</h2>
+<p>
+For questions and problem, use <a href="https://github.com/eclipse/windowbuilder/issues">Github Eclipse WindowBuilder Issues</a>.
+</p>
 </div>
 EOHTML;
 
-	# Generate the web page
-	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
+# Generate the web page
+$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html, $Breadcrumb);
 ?>

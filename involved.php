@@ -10,18 +10,25 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "Installing WindowBuilder Pro";
+require_once ('_projectCommon.php');
+$pageTitle 		= "WindowBuilder | Getting Involved in Development";
+$Breadcrumb->removeCrumb($Breadcrumb->getCrumbCount() - 1);
+$Breadcrumb->addCrumb("Getting Involved", "involved.php", "_self");
 
-	$html  = <<<EOHTML
+$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 
-<p>Public read only: <code><a href="https://git.eclipse.org/c/windowbuilder/org.eclipse.windowbuilder.git">https://git.eclipse.org/c/windowbuilder/org.eclipse.windowbuilder.git/</a></code></p>
-<p>EclipseLabs Extras: <code><a href="https://code.google.com/a/eclipselabs.org/p/windowbuilder-extras/source/browse">https://code.google.com/a/eclipselabs.org/p/windowbuilder-extras/source/browse</a></code></p>
+<p>
+The WindowBuilder developers welcome your involvement. Simply follow steps in the Contribution guide:
+</p>
+<p>
+<a href="https://github.com/eclipse/windowbuilder#contributing">https://github.com/eclipse/windowbuilder</a>
+</p>
 
 </div>
 EOHTML;
 
-	# Generate the web page
-	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
+# Generate the web page
+$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html, $Breadcrumb);
 ?>

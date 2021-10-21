@@ -10,20 +10,11 @@
  *    
  *******************************************************************************/
 
-	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());
-	
-	$localVersion = false;
-	
-	# Define these here, or in _projectCommon.php for site-wide values
-	$pageKeywords	= "";
-	$pageAuthor		= "Jaime Wren";
-	$pageTitle 		= "WindowBuilder";
-	
-	
-	// 	# Paste your HTML content between the EOHTML markers!
-	$html = file_get_contents('pages/_index.html');
+// Shared variables/configs for all pages of your website.
+require_once ('_projectCommon.php');
 
-	# Generate the web page
-	$App->generatePage($theme, $Menu, null, $pageAuthor, $pageKeywords, $pageTitle, $html);
+$html = file_get_contents('pages/_index.html');
 
+# Generate the web page
+$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html, $Breadcrumb);
 ?>

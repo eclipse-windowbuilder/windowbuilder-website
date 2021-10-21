@@ -10,16 +10,19 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "WindowBuilder - Documentation";
+require_once ('_projectCommon.php');
+$pageTitle 		= "WindowBuilder | Documentation";
+$Breadcrumb->removeCrumb($Breadcrumb->getCrumbCount() - 1);
+$Breadcrumb->addCrumb("Documentation", "documentation.php", "_self");
 
-	$html  = <<<EOHTML
+$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>See the latest documentation <a href="http://help.eclipse.org/indigo/topic/org.eclipse.wb.doc.user/html/index.html">here</a>.</p>
+<p>See the latest documentation <a href="https://help.eclipse.org/latest/topic/org.eclipse.wb.doc.user/html/index.html">here</a>.</p>
 
 </div>
 EOHTML;
 
-	# Generate the web page
-	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
+# Generate the web page
+$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html, $Breadcrumb);
 ?>
