@@ -45,7 +45,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  <td><b>Marketplace</b></td>
 	</tr>
 	<tr>
-	  <td>Current (1.10.0)</td>
+	  <td>Current (1.11.0)</td>
 	  <td><a href="https://download.eclipse.org/windowbuilder/latest/">link</a></td>
 	  <td><a href="https://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a></td>
 	   <td>
@@ -58,7 +58,7 @@ Instructions and system requirements for installing WindowBuilder can be found
 				<br /><sup>*</sup>Requires Eclipse Marketplace Client</div></a></div>
 	  </td>
 	<tr>
-	  <td>Upcoming (1.11.0)</td>
+	  <td>Upcoming (1.12.0)</td>
 	  <td><a href="https://download.eclipse.org/windowbuilder/lastgoodbuild/">link</a></td>
 	  <td><a href="https://eclipse.org/downloads/download.php?file=/windowbuilder/lastgoodbuild/repository.zip">link</a></td>
 	  <td>
@@ -72,6 +72,11 @@ Instructions and system requirements for installing WindowBuilder can be found
 			</div></a></div>
 	  </td> 
 	</tr>
+	<tr>
+	  <td>1.11.0 (Permanent)</td>
+	  <td><a href="https://download.eclipse.org/windowbuilder/1.11.0/">link</a></td>
+	  <td><a href="https://eclipse.org/downloads/download.php?file=/windowbuilder/1.11.0/repository.zip">link</a></td>
+	</tr>	
 	<tr>
 	  <td>1.10.0 (Permanent)</td>
 	  <td><a href="https://download.eclipse.org/windowbuilder/1.10.0/">link</a></td>
