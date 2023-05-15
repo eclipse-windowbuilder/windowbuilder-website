@@ -23,13 +23,13 @@ $html  = <<<EOHTML
 The WindowBuilder developers welcome your involvement. Simply follow steps in the Contribution guide:
 </p>
 <p>
-<a href="https://github.com/eclipse/windowbuilder#contributing-is-easy">https://github.com/eclipse/windowbuilder</a>
+<a href="https://github.com/eclipse-windowbuilder/windowbuilder#contributing-is-easy">https://github.com/eclipse-windowbuilder/windowbuilder</a>
 </p>
 
 <h2>Builds</h2>
 <ul>
 <li><a href="https://ci.eclipse.org/windowbuilder/">Nightly builds and releases</a></li>
-<li><a href="https://github.com/eclipse/windowbuilder/actions">Github Verification Builds</a></li>
+<li><a href="https://github.com/eclipse-windowbuilder/windowbuilder/actions">Github Verification Builds</a></li>
 </ul>
 
 
