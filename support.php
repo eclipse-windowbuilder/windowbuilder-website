@@ -19,7 +19,7 @@ $html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 <p>
-For questions and problem, use <a href="https://github.com/eclipse/windowbuilder/issues">Github Eclipse WindowBuilder Issues</a>.
+For questions use <a href="https://github.com/eclipse-windowbuilder/windowbuilder/discussions">Github Eclipse WindowBuilder Discussions</a> and for problems use <a href="https://github.com/eclipse-windowbuilder/windowbuilder/issues">Github Eclipse WindowBuilder Issues</a>.
 </p>
 </div>
 EOHTML;
