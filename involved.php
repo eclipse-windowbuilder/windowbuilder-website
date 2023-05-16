@@ -11,6 +11,10 @@
  *******************************************************************************/
 
 require_once ('_projectCommon.php');
+
+// Use our own favicon
+$App->AddExtraHtmlHeader('<link rel="shortcut icon" href="images/favicon.ico"/>');
+
 $pageTitle 		= "WindowBuilder | Getting Involved in Development";
 $Breadcrumb->removeCrumb($Breadcrumb->getCrumbCount() - 1);
 $Breadcrumb->addCrumb("Getting Involved", "involved.php", "_self");

@@ -12,6 +12,10 @@
 
 // Shared variables/configs for all pages of your website.
 require_once ('_projectCommon.php');
+
+// Use our own favicon
+$App->AddExtraHtmlHeader('<link rel="shortcut icon" href="images/favicon.ico"/>');
+
 $pageTitle 		= "WindowBuilder | Download";
 $Breadcrumb->removeCrumb($Breadcrumb->getCrumbCount() - 1);
 $Breadcrumb->addCrumb("Download", "download.php", "_self");

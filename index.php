@@ -13,6 +13,9 @@
 // Shared variables/configs for all pages of your website.
 require_once ('_projectCommon.php');
 
+// Use our own favicon
+$App->AddExtraHtmlHeader('<link rel="shortcut icon" href="images/favicon.ico"/>');
+
 $html = file_get_contents('pages/_index.html');
 
 # Generate the web page
