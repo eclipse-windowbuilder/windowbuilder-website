@@ -24,10 +24,11 @@ $html  = <<<EOHTML
 <h2>$pageTitle</h2>
 
 <p>
+<a href='https://projects.eclipse.org/projects/tools.windowbuilder'><img src='images/wb.svg' style='float:left; padding-right: 10px; max-height: 8ex;'></a>
 The WindowBuilder developers welcome your involvement. Simply follow steps in the Contribution guide:
 </p>
 <p>
-<a href="https://github.com/eclipse-windowbuilder/windowbuilder/blob/master/CONTRIBUTING.md">https://github.com/eclipse-windowbuilder/windowbuilder</a>
+<a style="padding-left: 2em;" href="https://github.com/eclipse-windowbuilder/windowbuilder/blob/master/CONTRIBUTING.md">https://github.com/eclipse-windowbuilder/windowbuilder</a>
 </p>
 
 <h2>Builds</h2>

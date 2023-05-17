@@ -22,7 +22,10 @@ $Breadcrumb->addCrumb("Documentation", "documentation.php", "_self");
 $html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>See the latest documentation <a href="https://help.eclipse.org/latest/topic/org.eclipse.wb.doc.user/html/index.html">here</a>.</p>
+<p>
+<a href='https://projects.eclipse.org/projects/tools.windowbuilder'><img src='images/wb.svg' style='float:left; padding-right: 10px; max-height: 8ex;'></a>
+See the latest documentation <a href="https://help.eclipse.org/latest/topic/org.eclipse.wb.doc.user/html/index.html">here</a>.
+</p>
 
 </div>
 EOHTML;
