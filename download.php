@@ -24,9 +24,9 @@ $html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">
-Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
+Eclipse Foundation Software User Agreement</a>.</p>
 
-<p>Develop Java graphical user interfaces in minutes for Swing, SWT, RCP and XWT with WindowBuilder Pro&rsquo;s 
+<p>Develop Java graphical user interfaces in minutes for Swing, SWT, RCP and XWT with WindowBuilder&rsquo;s 
 WYSIWYG, drag-and-drop interface. Use wizards, editors and intelligent layout assist to automatically generate 
 clean Java code, with the visual design and source always in sync.</p>
 
@@ -36,6 +36,28 @@ Instructions and system requirements for installing WindowBuilder can be found
 <a href="https://help.eclipse.org/index.jsp?topic=/org.eclipse.wb.doc.user/html/installation/index.html">here</a>.</p>
 
 <h3>Update Sites</h3>
+
+<p>
+WindowBuilder's new <a href="https://download.eclipse.org/windowbuilder/updates/">update sites</a> document all the available repository locations as well as their contents and dependencies.
+The following update sites are the most generally useful:
+</p>
+<ul>
+<li>
+<a href="https://download.eclipse.org/windowbuilder/updates/release/latest">https://download.eclipse.org/windowbuilder/updates/release/latest</a>
+<ul><li>Update to the most recent release.</li></ul>
+</li>
+<li>
+<a href="https://download.eclipse.org/windowbuilder/updates/milestone/latest">https://download.eclipse.org/windowbuilder/updates/milestone/latest</a>
+<ul><li>Update to a recent stable build leading to the next release.</li></ul>
+</li>
+<li>
+<a href="https://download.eclipse.org/windowbuilder/updates/nightly/latest">https://download.eclipse.org/windowbuilder/updates/nightly/latest</a>
+<ul><li>Update to the most recent bleeding-edge build based on the most recent commit.</li></ul>
+</li>
+</ul>
+
+
+<h3>Legacy Update Sites</h3>
 
 <table border="2" id="downloads-table">
 	<tr>
@@ -50,8 +72,8 @@ Instructions and system requirements for installing WindowBuilder can be found
 	</tr>
 	<tr>
 	  <td>Current (1.11.0)</td>
-	  <td><a href="https://download.eclipse.org/windowbuilder/latest/">link</a></td>
-	  <td><a href="https://eclipse.org/downloads/download.php?file=/windowbuilder/latest/repository.zip">link</a></td>
+	  <td><a href="https://download.eclipse.org/windowbuilder/updates/release/latest/">link</a></td>
+	  <td>Follow the link to the latest repository's zip file.</td>
 	   <td>
 	  	<div class="drag_installbutton drag_installbutton_v2">
 			<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4008412" class="drag"
@@ -63,8 +85,8 @@ Instructions and system requirements for installing WindowBuilder can be found
 	  </td>
 	<tr>
 	  <td>Upcoming (1.12.0)</td>
-	  <td><a href="https://download.eclipse.org/windowbuilder/lastgoodbuild/">link</a></td>
-	  <td><a href="https://eclipse.org/downloads/download.php?file=/windowbuilder/lastgoodbuild/repository.zip">link</a></td>
+	  <td><a href="https://download.eclipse.org/windowbuilder/updates/nightly/latest/">link</a></td>
+	  <td>Follow the link to the latest repository's zip file.</td>
 	  <td>
 		<div class="drag_installbutton drag_installbutton_v2">
 			<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4961416" class="drag"
@@ -139,8 +161,8 @@ Instructions and system requirements for installing WindowBuilder can be found
 </table>
 
 <p> </p>
-<p><b><i>Installing the Update Site or Zip editions requires the full Eclipse SDK including the JDT and PDE. 
-Use the Eclipse Classic, Java EE or RCP/Plug-in Developers distribution or install the JDT and PDE separately.</i></b></p>
+<p><b><i>Installing the Update Site or Zip editions requires the full Eclipse SDK including JDT and PDE. 
+Use the Eclipse Committers, Java, Java EE, or RCP/Plug-in Developers distribution or install JDT and PDE separately.</i></b></p>
 
 </div>
 EOHTML;
