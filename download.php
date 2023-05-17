@@ -23,8 +23,11 @@ $Breadcrumb->addCrumb("Download", "download.php", "_self");
 $html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">
-Eclipse Foundation Software User Agreement</a>.</p>
+<p>
+<a href='https://projects.eclipse.org/projects/tools.windowbuilder'><img src='images/wb.svg' style='float:left; padding-right: 10px; max-height: 8ex;'></a>
+All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">
+Eclipse Foundation Software User Agreement</a>.
+</p>
 
 <p>Develop Java graphical user interfaces in minutes for Swing, SWT, RCP and XWT with WindowBuilder&rsquo;s 
 WYSIWYG, drag-and-drop interface. Use wizards, editors and intelligent layout assist to automatically generate 
