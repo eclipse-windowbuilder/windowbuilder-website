@@ -55,12 +55,24 @@ The following update sites are the most generally useful:
 </li>
 <li>
 <a href="https://download.eclipse.org/windowbuilder/updates/nightly/latest">https://download.eclipse.org/windowbuilder/updates/nightly/latest</a>
-<ul><li>Update to the most recent bleeding-edge build based on the most recent commit.</li></ul>
+<ul><li>Update to the most recent bleeding-edge build based on the most recent commit. 
+
+	<div class="drag_installbutton drag_installbutton_v2">
+		<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4961416" class="drag"
+			title="Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client"><span
+				class="btn btn-default"><i class="fa fa-download orange"></i> Install</span>
+			<div class="tooltip">
+				<h3>Drag to Install!</h3>Drag to your running Eclipse<sup>*</sup> workspace.
+				<br /><sup>*</sup>Requires Eclipse Marketplace Client
+			</div>
+	        </a>
+	</div>
+	</li></ul>
 </li>
 </ul>
 
 
-<h3>Legacy Update Sites</h3>
+<h3>OLD RELEASES</h3>
 
 <table border="2" id="downloads-table">
 	<tr>
@@ -71,36 +83,6 @@ The following update sites are the most generally useful:
 	  <td><b>Version</b></td>
 	  <td><b>Update Site</b></td>
 	  <td><b>Zipped Update Site</b></td>
-	  <td><b>Marketplace</b></td>
-	</tr>
-	<tr>
-	  <td>Current (1.11.0)</td>
-	  <td><a href="https://download.eclipse.org/windowbuilder/updates/release/latest/">link</a></td>
-	  <td>Follow the link to the latest repository's zip file.</td>
-	   <td>
-	  	<div class="drag_installbutton drag_installbutton_v2">
-			<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4008412" class="drag"
-			title="Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client"><span
-				class="btn btn-default"><i class="fa fa-download orange"></i> Install</span>
-			<div class="tooltip">
-				<h3>Drag to Install!</h3>Drag to your running Eclipse<sup>*</sup> workspace.
-				<br /><sup>*</sup>Requires Eclipse Marketplace Client</div></a></div>
-	  </td>
-	<tr>
-	  <td>Upcoming (1.12.0)</td>
-	  <td><a href="https://download.eclipse.org/windowbuilder/updates/nightly/latest/">link</a></td>
-	  <td>Follow the link to the latest repository's zip file.</td>
-	  <td>
-		<div class="drag_installbutton drag_installbutton_v2">
-			<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=4961416" class="drag"
-				title="Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client"><span
-					class="btn btn-default"><i class="fa fa-download orange"></i> Install</span>
-			<div class="tooltip">
-				<h3>Drag to Install!</h3>Drag to your running Eclipse<sup>*</sup> workspace.
-				<br /><sup>*</sup>Requires Eclipse Marketplace Client
-			</div></a></div>
-	  </td> 
-	</tr>
 	<tr>
 	  <td>1.11.0 (Permanent)</td>
 	  <td><a href="https://download.eclipse.org/windowbuilder/1.11.0/">link</a></td>
