@@ -47,7 +47,18 @@ The following update sites are the most generally useful:
 <ul>
 <li>
 <a href="https://download.eclipse.org/windowbuilder/updates/release/latest">https://download.eclipse.org/windowbuilder/updates/release/latest</a>
-<ul><li>Update to the most recent release.</li></ul>
+<ul><li>Update to the most recent release.
+	<div class="drag_installbutton drag_installbutton_v2">
+		<a href="https://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3085446" class="drag"
+			title="Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client"><span
+				class="btn btn-default"><i class="fa fa-download orange"></i> Install</span>
+			<div class="tooltip">
+				<h3>Drag to Install!</h3>Drag to your running Eclipse<sup>*</sup> workspace.
+				<br /><sup>*</sup>Requires Eclipse Marketplace Client
+			</div>
+	        </a>
+	</div>	
+</li></ul>
 </li>
 <li>
 <a href="https://download.eclipse.org/windowbuilder/updates/milestone/latest">https://download.eclipse.org/windowbuilder/updates/milestone/latest</a>
