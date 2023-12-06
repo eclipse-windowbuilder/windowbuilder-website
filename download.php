@@ -95,6 +95,11 @@ The following update sites are the most generally useful:
 	  <td><b>Update Site</b></td>
 	  <td><b>Zipped Update Site</b></td>
 	<tr>
+	  <td>1.13.0 (Permanent)</td>
+	  <td><a href="https://download.eclipse.org/windowbuilder/updates/release/1.13.0/">link</a></td>
+	  <td><a href="https://www.eclipse.org/downloads/download.php?file=/windowbuilder/updates/release/1.13.0/WindowBuilder-Updates-1.13.0.zip">link</a></td>
+	</tr>	
+	<tr>
 	  <td>1.12.0 (Permanent)</td>
 	  <td><a href="https://download.eclipse.org/windowbuilder/updates/release/1.12.0/">link</a></td>
 	  <td><a href="https://www.eclipse.org/downloads/download.php?file=/windowbuilder/updates/release/1.12.0/WindowBuilder-Updates-1.12.0.zip">link</a></td>
