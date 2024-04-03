@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://staging.eclipse.dev/windowbuilder/documentation/</loc>
+    <loc>https://eclipse.dev/windowbuilder/documentation/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/downloads/</loc>
+    <loc>https://eclipse.dev/windowbuilder/downloads/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/involved/</loc>
+    <loc>https://eclipse.dev/windowbuilder/involved/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/support/</loc>
+    <loc>https://eclipse.dev/windowbuilder/support/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/categories/</loc>
+    <loc>https://eclipse.dev/windowbuilder/categories/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/membership_levels/</loc>
+    <loc>https://eclipse.dev/windowbuilder/membership_levels/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/participation_levels/</loc>
+    <loc>https://eclipse.dev/windowbuilder/participation_levels/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/tags/</loc>
+    <loc>https://eclipse.dev/windowbuilder/tags/</loc>
   </url><url>
-    <loc>https://staging.eclipse.dev/windowbuilder/</loc>
+    <loc>https://eclipse.dev/windowbuilder/</loc>
   </url>
 </urlset>

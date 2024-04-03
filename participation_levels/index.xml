@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Participation_levels on The Community for Open Innovation and Collaboration</title>
-    <link>https://staging.eclipse.dev/windowbuilder/participation_levels/</link>
+    <link>https://eclipse.dev/windowbuilder/participation_levels/</link>
     <description>Recent content in Participation_levels on The Community for Open Innovation and Collaboration</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://staging.eclipse.dev/windowbuilder/participation_levels/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://eclipse.dev/windowbuilder/participation_levels/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
